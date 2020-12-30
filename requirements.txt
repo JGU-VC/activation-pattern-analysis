@@ -1,0 +1,7 @@
+colored
+gitpython
+visdom
+easing_functions
+tqdm
+torch
+torchvision
