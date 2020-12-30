@@ -1,0 +1,6 @@
+colored
+miniflask>=1.35
+tqdm
+numpy
+GitPython
+visdom
